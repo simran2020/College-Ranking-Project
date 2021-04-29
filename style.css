@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: #f8f8f8;
+}
+nav{
+    color:rgb(135, 22, 241);
+}
+#heading{
+    background-color: #fff;
+    border:1px solid rgba(204, 203, 203, 0.794);
+    margin-top: 30px;
+    padding:5px;
+}
+.login_signup a{
+    text-decoration: none;
+    color:white;
+    margin: 6px;;
+}
+.col-md-12{
+    background-color: #fff;
+    border:1px solid rgba(204, 203, 203, 0.794);
+    margin-top: 30px;
+    padding:5px;
+}
+.collegeinfo{
+    padding:20px;
+}
+.collegeinfo .title {
+    width: calc(100% - 80px);
+    float: right;
+}
+.Dr{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+}
+.img-responsive{
+    padding-left:10px;
+}
+ul.info li {
+    display: inline-block;
+    position: relative;
+    color: #999;
+    padding-right: 10px;
+    padding-left:20px;
+}
+.container-fluid{
+    height:50px;
+    width:100%;
+    background-color:black;
+}
+.created{
+    color:white;
+    font-size: 20px;
+    padding-left:20%;
+    padding-top:10px;
+}
+.container-fluid{
+    margin-top: 100px;
+}
+.title a{
+    margin-left: 40px;
+}
+.nav-link{
+    color:#fff;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color:blue;
+    font-weight: bold;
+}
